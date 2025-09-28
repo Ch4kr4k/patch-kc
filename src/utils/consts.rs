@@ -1,0 +1,1 @@
+pub const KERNEL_CONFIG_PATH: &str = "/usr/src/linux/.config";

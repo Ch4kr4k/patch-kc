@@ -1,0 +1,3 @@
+#!/bin/bash
+cargo build --release
+cp target/release/patchkc /home/chakrak/ws/opts/bins/patchkc
